@@ -122,10 +122,9 @@ Custom (Any URL)  →  https://твой-сервер.ru/api
 
 ## 📞 Контакты
 
-- ✈️ **Telegram:** [@timurshk](https://t.me/timurshk)
-- 🐙 **GitHub:** [timurshk](https://github.com/timurshk)
-- 📸 **Instagram:** [@timurshk](https://instagram.com/timurshk)
-- 📧 **Email:** timurshk@example.com
+- ✈️ **Telegram:** [@Timur_C0dex](https://t.me/Timur_C0dex)
+- 🐙 **GitHub:** [TimurSHK](https://github.com/timurshk)
+- 📧 **Email:** timafergana2022@gmail.com
 
 ---
 
